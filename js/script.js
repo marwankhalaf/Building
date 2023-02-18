@@ -1,3 +1,5 @@
+// start logic
+
 let navbar = document.querySelector('.header .navbar');
 let searchForm = document.querySelector('.header .search-form');
 let loginForm = document.querySelector('.header .login-form');
